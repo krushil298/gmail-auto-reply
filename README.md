@@ -76,6 +76,3 @@ Feel free to fork this project and submit pull requests with improvements or bug
 - API rate limits may apply for both Gmail and Gemini APIs
 - AI-generated responses may not always be perfectly contextual
 
- 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
