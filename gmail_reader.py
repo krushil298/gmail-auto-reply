@@ -9,7 +9,7 @@ from googleapiclient.errors import HttpError
 from email.mime.text import MIMEText
 
 # 🔹 Set up Google Gemini AI API Key (Ensure this is correct!)
-GOOGLE_GEMINI_API_KEY = "AIzaSyC47NHQO4_AIariggY7Yo42pq8KZM7Bea8"  
+GOOGLE_GEMINI_API_KEY = "enter your Gemini AI API key"  
 genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
 
 # 🔹 Gmail API Scopes (Updated with gmail.send)
